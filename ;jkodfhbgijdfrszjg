@@ -1,0 +1,23 @@
+<main>
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="head">Welcome to RWA - Resident Welfare Association</h1>
+        <p class="para">
+          We are the organization representing the residents of Wave Estate,
+          Sector 99. Together, we strive to build a strong and vibrant
+          community.
+        </p>
+        <h1></h1>
+      </div>
+    </div>
+    <div class="container">
+      <h2>About Us</h2>
+      <p class="para">
+        The RWA is committed to enhancing the quality of life for all
+        residents of Wave Estate. We organize various community events,
+        promote welfare initiatives, and work towards maintaining a safe and
+        clean environment.
+      </p>
+      <a href="about.html" class="btn btn-primary">Learn More</a>
+    </div>
+  </main>
